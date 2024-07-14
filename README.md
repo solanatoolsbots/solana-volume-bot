@@ -7,7 +7,6 @@ https://github.com/solanatoolsbots/solana-volume-bot/assets/175059128/5b429a07-7
 
 [@solanatoolsbots](https://t.me/solanatoolsbots)
 
-Check out our official telegram channel: [https://t.me/solanabotstools](https://t.me/solanabotstools) 
 
 **TWO AVAILABLE VERSIONS:**
 1. JITO Volume Maker (VIDEO demo available above)
